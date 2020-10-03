@@ -30,8 +30,9 @@ npm install --save nodemailer
 🔸 Install The Above #Installation
 🔸 Run it through either node mail.js or npm start
 🔸🔸🔸🔸🔸🔸
-*NOTE: For either you have to place your psw directly for your email or if you have TFA enabled you can use [OAuth2](https://community.nodemailer.com/2-0-0-beta/using-oauth2/)*
+*NOTE: For either you have to place your psw directly for your email or if you have TFA enabled you can use OAuth2.*
 ```
+[OAuth2](https://community.nodemailer.com/2-0-0-beta/using-oauth2/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
