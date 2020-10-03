@@ -1,0 +1,23 @@
+{
+  "name": "Node-mailer",
+  "version": "1.0.0",
+  "description": "send mail using nodejs and nodemailer package",
+  "main": "mail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mail.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaravananVijayamuthu/Nodemailer.git"
+  },
+  "author": "Saravanan Vijayamuthu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaravananVijayamuthu/Nodemailer/issues"
+  },
+  "homepage": "https://github.com/SaravananVijayamuthu/Nodemailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.13"
+  }
+}
